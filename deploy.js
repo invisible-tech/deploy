@@ -2,7 +2,6 @@
 'use strict'
 
 require('dotenv').config()
-const shell = require('shelljs')
 const { spawnSync } = require('child_process')
 
 const { GCLOUD_PROJECT } = process.env
