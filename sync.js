@@ -2,7 +2,6 @@
 'use strict'
 
 const assert = require('assert')
-const shell = require('shelljs')
 const gcs = require('@google-cloud/storage')()
 const { includes, map, filter, flatten } = require('lodash/fp')
 
