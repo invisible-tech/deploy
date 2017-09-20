@@ -1,4 +1,4 @@
-# deploy
+# @invisible/deploy
 
 Module to help deploy and run Google App Engine projects with features like:
 - Deploy multiple services for production and staging.
